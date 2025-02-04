@@ -1,6 +1,6 @@
 from pytest import approx
 import pytest
-from water_flow import water_column_height, pressure_gain_from_water_height, pressure_loss_from_pipe, pressure_loss_from_fittings, reynolds_number, pressure_loss_from_pipe_reduction, kpa_to_psi
+from week03_water_flow import water_column_height, pressure_gain_from_water_height, pressure_loss_from_pipe, pressure_loss_from_fittings, reynolds_number, pressure_loss_from_pipe_reduction, kpa_to_psi
 
 
 def test_water_column_height():
