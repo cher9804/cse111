@@ -337,4 +337,4 @@ if __name__ == "__main__":
     main()
     
     # To run the simulation using the graphical user interface (GUI):
-    # build_gui()
+    build_gui()

@@ -1,0 +1,35 @@
+Second Report for a Student Chosen Project
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2021-12-03      2.5     Wrote two program functions and two test functions
+2021-12-03      0.5     Watched video on test-driven development (TDD) for simulations
+2021-12-04      1.0     Researched disease simulation models and GUI design concepts
+2021-12-04      1.5     Designed program flow diagrams and pseudocode for the simulation
+2021-12-05      2.0     Developed core simulation functions (population creation, movement, infection logic)
+2021-12-05      1.0     Wrote test functions for simulation components using pytest
+2021-12-06      1.5     Debugged simulation code and integrated visualization with matplotlib
+2021-12-06      1.0     Built and refined the GUI using tkinter for interactive control
+2021-12-07      2.0     Final testing, documentation, and preparation of the project report
+----------  ----------  -------------------------
+TOTAL          13.0         
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.

@@ -2,8 +2,10 @@ import csv
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 # Needed to install dateutil "pip install python-dateutil" used this to install it 
-
-
+# Write code to print a reminder of how many days until the New Years Sale begins (Jan 1) at the bottom of the receipt.
+# Write code to print a "return by" date that is 9:00 PM 30 days in the future at the bottom of the receipt.
+# Challenge: Write code that will give a buy one, get one half off discount for item D083. For example if the customer orders one item it will be full price. If the customer orders two items the first item is full price the second one is discounted 50%. For three items two would be at full price and one at 50% off. Indicate the discounted price on the receipt.
+# Completed all of these.
 
 def main():
     try:
